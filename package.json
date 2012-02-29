@@ -1,0 +1,12 @@
+{
+    "name": "argumentum",
+    "description": "Option parser with generated usage and commands",
+    "version": "0.6.0",
+    "author": "Paul Miller (http://paulmillr.com)",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/paulmillr/argumentum.git"
+    },
+    "main": "./lib/argumentum",
+    "keywords": ["arguments", "option parser", "command line", "options", "parser", "nomnom"]
+}
