@@ -2,6 +2,13 @@
 Argumentum is a no-bullshit option parser for node. It doesn't have
 complicated chainable APIs so it's much more easier to use.
 
+## Getting started
+You'll need node.js 0.6. Type:
+
+`npm install -g brunch`
+
+You're done!
+
 ## Example
 Example usage (in CoffeeScript):
 
