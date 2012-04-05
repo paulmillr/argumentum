@@ -5,7 +5,7 @@ complicated chainable APIs so it's much more easier to use.
 ## Getting started
 You'll need node.js 0.6. Type:
 
-`npm install -g brunch`
+`npm install argumentum`
 
 You're done!
 
