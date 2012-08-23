@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/paulmillr/argumentum.png)](http://travis-ci.org/paulmillr/argumentum)
 # Argumentum
 Argumentum is a no-bullshit option parser for node. It doesn't have
 complicated chainable APIs so it's much more easier to use.
